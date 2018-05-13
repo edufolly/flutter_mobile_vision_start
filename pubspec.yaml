@@ -1,0 +1,14 @@
+name: flutter_mobile_vision_start
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_mobile_vision: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
