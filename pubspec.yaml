@@ -4,7 +4,7 @@ description: A new Flutter application.
 dependencies:
   flutter:
     sdk: flutter
-  flutter_mobile_vision: ^0.1.0
+  flutter_mobile_vision: ^0.1.1
 
 dev_dependencies:
   flutter_test:
