@@ -1,13 +1,18 @@
 name: flutter_mobile_vision_start
 description: A new Flutter application.
 
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
-  flutter_mobile_vision: ^0.1.1
+  flutter_mobile_vision: ^0.1.3
 
 dev_dependencies:
   flutter_test:
+    sdk: flutter
+  flutter_driver:
     sdk: flutter
 
 flutter:
